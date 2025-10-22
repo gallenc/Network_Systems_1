@@ -1,15 +1,11 @@
 
 ![alt text](../main/docs/images/solentLogo.png "Figure solentLogo.png" )
 
-# Network Management (COM615) 2025
+# Network Systems
 
-Material for Level 6 Network Management Module
+Material for Level 5 Network Systems Modules
 
 ## Introduction
-
-Welcome to the tutorial material for Solent UNI Network Management (COM615) 2025
-
-This module will introduce you to the fascinating and complex world of Network and systems Management.
 
 The material on this site should be sufficient for you to study on your own and in class. 
 Many of the exercises can be done on a PC with Docker Desktop installed and sufficient memory available.
