@@ -5,3 +5,7 @@ RUN apt install systemctl -y
 RUN apt install bind9 bind9utils dnsutils -y
 RUN apt install net-tools nano iputils-ping -y
 WORKDIR /etc
+
+## keeps container running
+ENTRYPOINT ["tail"]
+CMD ["-f","/dev/null"]
