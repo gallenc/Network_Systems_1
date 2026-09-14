@@ -4,7 +4,7 @@
 Fundamentally, software development is a collaborative activity.
 Even when you are working on your own project, you will be drawing on examples or library code written by someone else. 
 
-Three of the most important disciplines when working on software projects individually or in teams are 
+Three of the most important disciplines when working on software or infrastructure as code projects individually or in teams are 
 * Documentation, 
 * Project Management, and 
 * Version Control.
@@ -13,7 +13,14 @@ We want to introduce you to all these practices as part of this module.
 
 Git is a version control system invented by [Linus Torvalds](https://en.wikipedia.org/wiki/Linus_Torvalds) to help track changes to code during the development of the Linux Kernel.
 
-Git is very powerful and now very widely adopted in the computer industry, supplanting tools which were previously widely used such as [Subversion](https://subversion.apache.org/) and [CVS](https://www.nongnu.org/cvs/). 
+Git is very powerful and now very widely adopted in the computer and networking industry, supplanting tools which were previously widely used such as [Subversion](https://subversion.apache.org/) and [CVS](https://www.nongnu.org/cvs/). 
+
+Martin Reid has also created some useful material on using your github profile to advertise your skills 
+* [Github Profile Walk Thru](https://github.com/martinsolent/github_profile_walk-thru)
+* [Github Pages](https://github.com/martinsolent/GitHub_Pages_2023)
+* [Markdown Course](https://github.com/martinsolent/markdown_course)
+
+### Introduction to GIT
 
 In this module you will learn some basic commands and practices to use Git effectively.
 
