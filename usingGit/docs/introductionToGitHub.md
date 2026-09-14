@@ -5,6 +5,12 @@ This will teach you a little bit about git and how to fork a copy of this reposi
 
 You will then be able to clone your fork locally.
 
+Martin REid has created some useful material on using your github profile to advertise your skills 
+* [Github Profile Walk Thru](https://github.com/martinsolent/github_profile_walk-thru)
+* [Github Pages](https://github.com/martinsolent/GitHub_Pages_2023)
+* [Markdown Course](https://github.com/martinsolent/markdown_course)
+
+
 ### Introduction to GIT
 To be a professional developer, you will need to become proficient at using version control systems.
 Many version control systems (each with their own benefits and drawbacks e.g CVS, Subversion, git) have been popular over the years. 
